@@ -1,0 +1,4 @@
+language: ruby
+dist: trusty
+sudo: true
+script: bash test.sh
