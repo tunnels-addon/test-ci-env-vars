@@ -1,3 +1,5 @@
+echo "3rd Party PR"
+
 echo "=== CI vars"
 env | grep CI_
 
